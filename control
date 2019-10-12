@@ -1,7 +1,7 @@
 Package: me.shymemoriees.randomeme
 Name: randoMeme
 Depends: mobilesubstrate
-Version: 1.0.1
+Version: 1.0
 Architecture: iphoneos-arm
 Description: Memes. Just Memes. After you respring it plays one of 28 meme sound effects.
 Maintainer: ShyMemoriees
